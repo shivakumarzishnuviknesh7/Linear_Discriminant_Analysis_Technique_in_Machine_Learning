@@ -1,0 +1,1 @@
+Linear Discriminant Analysis (LDA) is a technique used in machine learning for classification and dimensionality reduction. In this logistic regression project, LDA is used in the data preprocessing phase to reduce the number of features from many dimensions to two dimensions. This process aims to make the training of the model faster and improve its efficiency.
